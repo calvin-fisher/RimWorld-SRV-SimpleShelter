@@ -6,5 +6,19 @@
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>Simple shelter door and walls for temporary survival structures. (From CuproPanda's Survivalist's Additions, re-balanced)</description>
+  <description>
+Simple shelter door and walls for temporary survival structures.
+
+Taken from CuproPanda's Survivalist's Additions, re-balanced, and packaged as a stand-alone mod.
+
+The shelter structures now have a beauty penalty as a tradeoff for being quick and easy to construct. They are also slightly flimsier than before.
+
+Backwards-compatibile with games saved with the full mod. If you only used the shelter wall and door, just uninstall Survivalist's Additions, install this mod, and you no longer have a dependency on all the other pieces.
+
+-----
+
+CREDITS:
+Taken from CuproPanda's final, abandoned version of Survivalist's Additions: https://steamcommunity.com/sharedfiles/filedetails/?id=1207562628
+And based on mantrasong's 1.0 update: https://steamcommunity.com/sharedfiles/filedetails/?id=1550854139
+  </description>
 </ModMetaData>
