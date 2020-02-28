@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
 	<ThingDef ParentName="BuildingBase">
 		<defName>SRV_ShelterDoor</defName>
 		<label>shelter door</label>
@@ -54,7 +53,6 @@
 			<li>PlaceWorker_DoorLearnOpeningSpeed</li>
 		</placeWorkers>
 	</ThingDef>
-
 	<ThingDef ParentName="BuildingBase">
 		<defName>SRV_WallShelter</defName>
 		<label>shelter wall</label>
@@ -81,7 +79,6 @@
 				<edgeRight>Damage/Edge</edgeRight>
 			</damageData>
 		</graphicData>
-		
 		<uiIconPath>Cupro/Object/Structure/WallShelter_MenuIcon</uiIconPath>
 		<statBases>
 			<MaxHitPoints>100</MaxHitPoints>
@@ -124,5 +121,4 @@
 			</li>
 		</damageMultipliers>
 	</ThingDef>
-
 </Defs>

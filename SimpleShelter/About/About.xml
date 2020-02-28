@@ -2,9 +2,11 @@
 <ModMetaData>
   <name>Simple Shelter (from CP Srv Add)</name>
   <author>CoproPanda</author>
+  <packageId>CuproPanda.SurvivalistsAdditions.SimpleShelter</packageId>
   <url>https://ludeon.com/forums/index.php?topic=32190</url>
   <supportedVersions>
     <li>1.0</li>
+    <li>1.1</li>
   </supportedVersions>
   <description>
 Simple shelter door and walls for temporary survival structures.
